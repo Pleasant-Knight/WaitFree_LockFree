@@ -30,3 +30,37 @@
 *.exe
 *.out
 *.app
+
+# Folders
+bld
+build
+dbg
+debug
+debug_bld
+dbg_bld
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+*.log.*
+
+# IDE specific files
+*.user
+*.sln
+*.suo
+
+# vs code IDE files
+.vscode/
+.vscode-test/
+
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
